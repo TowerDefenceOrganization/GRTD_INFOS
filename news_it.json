@@ -1,0 +1,18 @@
+{
+  "news": [
+    {
+      "newsID": "winter_event_2025",
+      "titleKey": "Evento Invernale 2025!",
+      "bodyKey": "Preparati per l'Evento Invernale! Dal 20 al 31 Gennaio potrai affrontare livelli esclusivi a tema natalizio e sbloccare ricompense uniche. Non perdere questa occasione!",
+      "date": "15 Gennaio 2025",
+      "iconUrl": ""
+    },
+    {
+      "newsID": "new_towers_announcement",
+      "titleKey": "Nuove Torri Disponibili",
+      "bodyKey": "Scopri le tre nuove torri aggiunte nell'ultimo aggiornamento! La Torre Laser perfora i nemici, la Torre Congelante li rallenta e la Torre Esplosiva colpisce un'area. Sperimenta nuove strategie!",
+      "date": "10 Gennaio 2025",
+      "iconUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "news": [
+    {
+      "newsID": "winter_event_2025",
+      "titleKey": "Winter Event 2025!",
+      "bodyKey": "Get ready for the Winter Event! From January 20th to 31st you can tackle exclusive Christmas-themed levels and unlock unique rewards. Don't miss this opportunity!",
+      "date": "January 15th, 2025",
+      "iconUrl": ""
+    },
+    {
+      "newsID": "new_towers_announcement",
+      "titleKey": "New Towers Available",
+      "bodyKey": "Discover the three new towers added in the latest update! The Laser Tower pierces enemies, the Freeze Tower slows them down, and the Explosive Tower hits an area. Try out new strategies!",
+      "date": "January 10th, 2025",
+      "iconUrl": ""
+    }
+  ]
+}
