@@ -1,0 +1,68 @@
+{
+  "patchNotes": [
+    {
+      "version": "1.2.0",
+      "date": "2024-02-15",
+      "titleKey": "patch.1_2_0.title",
+      "sections": [
+        {
+          "type": "Features",
+          "itemKeys": [
+            "patch.1_2_0.feature.1",
+            "patch.1_2_0.feature.2",
+            "patch.1_2_0.feature.3"
+          ]
+        },
+        {
+          "type": "Improvements",
+          "itemKeys": [
+            "patch.1_2_0.improvement.1",
+            "patch.1_2_0.improvement.2"
+          ]
+        },
+        {
+          "type": "Fixes",
+          "itemKeys": [
+            "patch.1_2_0.fix.1",
+            "patch.1_2_0.fix.2",
+            "patch.1_2_0.fix.3"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2024-01-30",
+      "titleKey": "patch.1_1_0.title",
+      "sections": [
+        {
+          "type": "Features",
+          "itemKeys": [
+            "patch.1_1_0.feature.1",
+            "patch.1_1_0.feature.2"
+          ]
+        },
+        {
+          "type": "Fixes",
+          "itemKeys": [
+            "patch.1_1_0.fix.1"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2024-01-15",
+      "titleKey": "patch.1_0_0.title",
+      "sections": [
+        {
+          "type": "Features",
+          "itemKeys": [
+            "patch.1_0_0.feature.1",
+            "patch.1_0_0.feature.2"
+          ]
+        }
+      ]
+    }
+  ]
+}
