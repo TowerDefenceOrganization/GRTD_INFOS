@@ -1,0 +1,60 @@
+{
+  "patchNotes": [
+    {
+      "version": "1.2.0",
+      "date": "15 Gennaio 2025",
+      "titleKey": "Aggiornamento Invernale",
+      "sections": [
+        {
+          "type": "features",
+          "itemKeys": [
+            "Aggiunte 3 nuove torri: Torre Laser, Torre Congelante e Torre Esplosiva",
+            "Nuovo livello disponibile: Fortezza Ghiacciata",
+            "Sistema di potenziamenti permanenti sbloccabili con stelle",
+            "Modalità Sfida Giornaliera con ricompense esclusive"
+          ]
+        },
+        {
+          "type": "improvements",
+          "itemKeys": [
+            "Migliorata la reattività dei controlli touch",
+            "Ottimizzate le prestazioni su dispositivi di fascia media (-30% uso memoria)",
+            "Rinnovata l'interfaccia del menu principale",
+            "Aggiunti suggerimenti contestuali durante il gameplay"
+          ]
+        },
+        {
+          "type": "fixes",
+          "itemKeys": [
+            "Risolto crash quando si piazzavano torri troppo velocemente",
+            "Corretto bug che impediva il salvataggio del progresso al livello 4",
+            "Sistemato problema audio con effetti sonori sovrapposti",
+            "Risolto errore di sincronizzazione nelle animazioni dei nemici"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.1.5",
+      "date": "28 Dicembre 2024",
+      "titleKey": "Hotfix Natalizio",
+      "sections": [
+        {
+          "type": "fixes",
+          "itemKeys": [
+            "Risolto problema critico che causava perdita di progressi",
+            "Corretto errore nel calcolo delle stelle ottenute",
+            "Sistemato crash all'avvio su alcuni dispositivi Android"
+          ]
+        },
+        {
+          "type": "improvements",
+          "itemKeys": [
+            "Ridotto tempo di caricamento del 25%",
+            "Migliorata stabilità generale del gioco"
+          ]
+        }
+      ]
+    }
+  ]
+}

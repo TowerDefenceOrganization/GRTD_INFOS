@@ -1,0 +1,60 @@
+{
+  "patchNotes": [
+    {
+      "version": "1.2.0",
+      "date": "January 15th, 2025",
+      "titleKey": "Winter Update",
+      "sections": [
+        {
+          "type": "features",
+          "itemKeys": [
+            "Added 3 new towers: Laser Tower, Freeze Tower and Explosive Tower",
+            "New level available: Frozen Fortress",
+            "Permanent upgrade system unlockable with stars",
+            "Daily Challenge mode with exclusive rewards"
+          ]
+        },
+        {
+          "type": "improvements",
+          "itemKeys": [
+            "Improved touch controls responsiveness",
+            "Optimized performance on mid-range devices (-30% memory usage)",
+            "Redesigned main menu interface",
+            "Added contextual hints during gameplay"
+          ]
+        },
+        {
+          "type": "fixes",
+          "itemKeys": [
+            "Fixed crash when placing towers too quickly",
+            "Fixed bug preventing progress save on level 4",
+            "Fixed audio issue with overlapping sound effects",
+            "Fixed synchronization error in enemy animations"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.1.5",
+      "date": "December 28th, 2024",
+      "titleKey": "Christmas Hotfix",
+      "sections": [
+        {
+          "type": "fixes",
+          "itemKeys": [
+            "Fixed critical issue causing progress loss",
+            "Fixed error in star calculation",
+            "Fixed crash on startup on some Android devices"
+          ]
+        },
+        {
+          "type": "improvements",
+          "itemKeys": [
+            "Reduced loading time by 25%",
+            "Improved overall game stability"
+          ]
+        }
+      ]
+    }
+  ]
+}
