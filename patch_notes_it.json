@@ -1,57 +1,33 @@
 {
   "patchNotes": [
     {
-      "version": "1.2.0",
-      "date": "15 Gennaio 2025",
-      "titleKey": "Aggiornamento Invernale",
+      "version": "1.3.0",
+      "date": "17 Febbraio 2026",
+      "titleKey": "Aggiornamento di meta' Febbraio",
       "sections": [
         {
           "type": "features",
           "itemKeys": [
-            "Aggiunte 3 nuove torri: Torre Laser, Torre Congelante e Torre Esplosiva",
-            "Nuovo livello disponibile: Fortezza Ghiacciata",
-            "Sistema di potenziamenti permanenti sbloccabili con stelle",
-            "Modalità Sfida Giornaliera con ricompense esclusive"
+            "NUOVO: Pagine News e Patch Notes",
+            "NUOVO: Aggiunti link ai social media nel menu principale",
+            "NUOVO: Sistema di valutazione basato sulle prestazioni durante le partite",
+            "NUOVO: Pagine Bestiario e Tutorial",
+            "NUOVO: Aggiunte nuove impostazioni per le dimensioni dello schermo"
           ]
         },
         {
           "type": "improvements",
           "itemKeys": [
-            "Migliorata la reattività dei controlli touch",
-            "Ottimizzate le prestazioni su dispositivi di fascia media (-30% uso memoria)",
-            "Rinnovata l'interfaccia del menu principale",
-            "Aggiunti suggerimenti contestuali durante il gameplay"
+            "Il pannello informazioni torri ora mostra le statistiche delle torri in modo piu' accurato in base al loro potenziale massimo",
+            "Regolato lo spawn dei nemici per il livello 1-4",
+            "Il percorso dei nemici e' stato leggermente modificato",
+            "Aggiornamenti visivi generali a vari elementi UI e Sprite"
           ]
         },
         {
           "type": "fixes",
           "itemKeys": [
-            "Risolto crash quando si piazzavano torri troppo velocemente",
-            "Corretto bug che impediva il salvataggio del progresso al livello 4",
-            "Sistemato problema audio con effetti sonori sovrapposti",
-            "Risolto errore di sincronizzazione nelle animazioni dei nemici"
-          ]
-        }
-      ]
-    },
-    {
-      "version": "1.1.5",
-      "date": "28 Dicembre 2024",
-      "titleKey": "Hotfix Natalizio",
-      "sections": [
-        {
-          "type": "fixes",
-          "itemKeys": [
-            "Risolto problema critico che causava perdita di progressi",
-            "Corretto errore nel calcolo delle stelle ottenute",
-            "Sistemato crash all'avvio su alcuni dispositivi Android"
-          ]
-        },
-        {
-          "type": "improvements",
-          "itemKeys": [
-            "Ridotto tempo di caricamento del 25%",
-            "Migliorata stabilità generale del gioco"
+            "Regolato l'importo rimborsato quando si vende una torre per includere il prezzo dei power-up acquistati oltre al prezzo base"
           ]
         }
       ]

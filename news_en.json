@@ -1,24 +1,17 @@
 {
   "news": [
     {
-      "newsID": "mega_update_2025",
-      "titleKey": "Mega Update 2025 - Everything You Need to Know!",
-      "bodyKey": "Commanders, we're thrilled to announce our biggest update yet! This massive content drop brings revolutionary changes to Glam Rock TD that will transform your gaming experience.\n\nNEW GAME MODES: Introducing Endless Mode where you face infinite waves with increasing difficulty, and Challenge Mode featuring daily rotating modifiers that will test your strategic skills. Compete on global leaderboards and earn exclusive rewards!\n\nTOWER EVOLUTION SYSTEM: Your towers can now evolve beyond level 5! Each tower has three unique evolution paths that drastically change their behavior. Will you choose the Laser Tower's Piercing Path for maximum penetration, the Beam Split for crowd control, or the Overcharge Path for devastating single-target damage?\n\nNEW ENEMY TYPES: Face off against 15 new enemy variants including Shielded Units that require armor-piercing damage, Regenerating Enemies that heal over time, and the terrifying Boss Rushes with multiple phases and unique mechanics.\n\nPROGRESSION OVERHAUL: We've completely redesigned the progression system! Unlock permanent upgrades through the new Prestige System, customize your commander profile with achievements and titles, and enjoy the revamped daily mission structure with better rewards.\n\nCOMMUNITY FEATURES: Join guilds with up to 50 members, share custom strategies, participate in guild raids, and compete in weekly tournaments with prizes!\n\nQUALITY OF LIFE: Auto-upgrade towers, quick-sell functionality, improved touch controls, performance optimizations for older devices, and accessibility options including colorblind modes.\n\nThis update drops January 25th, 2025. Pre-register now to receive an exclusive Founder's Tower skin and 1000 premium currency! See you on the battlefield!",
-      "date": "January 18th, 2025",
+      "newsID": "endless_mode_coming_soon",
+      "titleKey": "Endless Mode Coming Soon - Late February!",
+      "bodyKey": "Sinner, are you ready for a new challenge?\n\nWe're about to launch ENDLESS MODE, where you can test your strategic skills against infinite waves of increasingly powerful enemies!\n\nWhat to expect:\n\n INFINITE WAVES: Face waves that become progressively more difficult. How long can you survive?\n\n ADVANCED STATISTICS: Track your records and improvements over time\n\nEndless Mode will arrive at the END OF FEBRUARY 2026.",
+      "date": "February 17th, 2026",
       "iconUrl": ""
     },
     {
-      "newsID": "winter_event_2025",
-      "titleKey": "Winter Event 2025!",
-      "bodyKey": "Get ready for the Winter Event! From January 20th to 31st you can tackle exclusive Christmas-themed levels and unlock unique rewards. Don't miss this opportunity!",
-      "date": "January 15th, 2025",
-      "iconUrl": ""
-    },
-    {
-      "newsID": "new_towers_announcement",
-      "titleKey": "New Towers Available",
-      "bodyKey": "Discover the three new towers added in the latest update! The Laser Tower pierces enemies, the Freeze Tower slows them down, and the Explosive Tower hits an area. Try out new strategies!",
-      "date": "January 10th, 2025",
+      "newsID": "mid_february_update_2026",
+      "titleKey": "Mid-February Update - News and Improvements",
+      "bodyKey": "We're working hard for you, Sinner! Here's what's new:\n\n RENEWED INTERFACE: We've introduced news and patch notes panels to keep you updated! \n\n IMPROVED GRAPHICS: Social icons in the main menu, improved life icons and cleaner visuals throughout the game\n\n QUALITY OF LIFE: Notification system, skip tutorial button and much more!\n\n RATING SYSTEM: New system that evaluates your performance based on difficulty and level completion\n\n OPTIMIZATIONS: General performance improvements, level 4 balancing and various fixes\n\nOver 30 improvements and corrections to make your experience even smoother!\n\nThank you for your continued support!",
+      "date": "February 17th, 2026",
       "iconUrl": ""
     }
   ]

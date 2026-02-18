@@ -1,57 +1,33 @@
 {
   "patchNotes": [
     {
-      "version": "1.2.0",
-      "date": "January 15th, 2025",
-      "titleKey": "Winter Update",
+      "version": "1.3.0",
+      "date": "February 17th, 2026",
+      "titleKey": "Mid-February Update",
       "sections": [
         {
           "type": "features",
           "itemKeys": [
-            "Added 3 new towers: Laser Tower, Freeze Tower and Explosive Tower",
-            "New level available: Frozen Fortress",
-            "Permanent upgrade system unlockable with stars",
-            "Daily Challenge mode with exclusive rewards"
+            "NEW: News and Patch Notes pages",
+            "NEW: Added social media links to main menu",
+            "NEW: Rating system based on performance during games",
+            "NEW: Bestiary and Tutorial pages",
+            "NEW: Added new settings for screen size"
           ]
         },
         {
           "type": "improvements",
           "itemKeys": [
-            "Improved touch controls responsiveness",
-            "Optimized performance on mid-range devices (-30% memory usage)",
-            "Redesigned main menu interface",
-            "Added contextual hints during gameplay"
+            "The tower info panel will now more closely display the tower's stats based on their maximum potential",
+            "Adjusted the enemy spawns for level 1-4",
+            "Enemies pathing has been slightly adjusted",
+            "General visual updates to various UI elements and Sprites"
           ]
         },
         {
           "type": "fixes",
           "itemKeys": [
-            "Fixed crash when placing towers too quickly",
-            "Fixed bug preventing progress save on level 4",
-            "Fixed audio issue with overlapping sound effects",
-            "Fixed synchronization error in enemy animations"
-          ]
-        }
-      ]
-    },
-    {
-      "version": "1.1.5",
-      "date": "December 28th, 2024",
-      "titleKey": "Christmas Hotfix",
-      "sections": [
-        {
-          "type": "fixes",
-          "itemKeys": [
-            "Fixed critical issue causing progress loss",
-            "Fixed error in star calculation",
-            "Fixed crash on startup on some Android devices"
-          ]
-        },
-        {
-          "type": "improvements",
-          "itemKeys": [
-            "Reduced loading time by 25%",
-            "Improved overall game stability"
+            "Adjusted the amount refunded when selling a tower to include the price of power-ups purchased as well as the base price"
           ]
         }
       ]
