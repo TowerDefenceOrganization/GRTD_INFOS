@@ -1,17 +1,17 @@
 {
   "news": [
     {
-      "newsID": "levels_completion_and_game_polishing",
-      "titleKey": "Grandi Miglioramenti e Rifiniture",
-      "bodyKey": "Peccatore, stiamo rifinendo ogni aspetto del gioco per offrirti un'esperienza piu' fluida e coerente.\n\nEcco cosa c'e' di nuovo:\n\n MIGLIORAMENTI VISIVI: Menu piu' puliti, mappe aggiornate e una nuova animazione di dissolvenza alla morte.\n\n AGGIORNAMENTI AUDIO: Nuove tracce per i livelli e per i menu, insieme a effetti sonori migliorati.\n\n BILANCIAMENTO GAMEPLAY: Le statistiche di strength sono state ribilanciate per essere piu' coerenti con il costo, insieme ad altri aggiustamenti generali.\n\n AGGIORNAMENTO DIFFICOLTA': La difficolta' ora influisce direttamente su vite e ricompense in denaro.\n\n QUALITA' DELLA VITA: Migliorie all'interfaccia, menu rivisti, sistema di notifiche e usabilita' generale migliorata.\n\n PERFORMANCE: Ottimizzazioni significative per migliorare stabilita' e fluidita'.\n\n DIALOGHI: Aggiunti nuovi dialoghi per arricchire il mondo di gioco.\n\nOltre 30 miglioramenti e correzioni per rendere l'esperienza piu' solida e rifinita.\n\nGrazie per il tuo supporto!",
-      "date": "Coming Soon!",
+      "newsID": "rebalancing_update",
+      "titleKey": "Aggiornamento di ribilanciamento",
+      "bodyKey": "Peccatore, abbiamo ribilanciato tutti i livelli disponibili per un'esperienza di gioco più fluida!\n\nEcco cosa c'è di nuovo:\n\nMIGLIORAMENTI VISIVI: Sfondo più coerente su dispositivi di ogni tipo.\n\nAGGIORNAMENTI AUDIO: Nuove tracce per livelli e menu, insieme a effetti sonori migliorati.\n\nBILANCIAMENTO GAMEPLAY: Ridotta la generazione dei nemici in generale e applicate leggere modifiche alle statistiche delle torri.\n\nGrazie per il tuo supporto!",
+      "date": "",
       "iconUrl": ""
     },
     {
       "newsID": "fifth_level",
       "titleKey": "Livello Finale del Mondo 1 in Arrivo",
-      "bodyKey": "Il viaggio nel primo mondo sta per raggiungere il suo culmine.\n\nStiamo lavorando al livello finale, con un boss reale progettato per mettere alla prova la tua strategia e il tuo tempismo.\n\nPreparati, Peccatore. La fine del Mondo 1 e' vicina.",
-      "date": "Coming Soon!",
+      "bodyKey": "Il viaggio nel primo mondo sta per raggiungere il suo climax.\n\nStiamo lavorando al livello finale, con un boss reale progettato per mettere alla prova la tua strategia e il tuo tempismo.\n\nPreparati, Peccatore. La fine del Mondo 1 è vicina.",
+      "date": "In arrivo!",
       "iconUrl": ""
     }
   ]
