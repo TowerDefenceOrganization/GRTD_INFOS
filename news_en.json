@@ -1,10 +1,10 @@
 {
   "news": [
     {
-      "newsID": "levels_completion_and_game_polishing",
-      "titleKey": "Major Improvements & Polishing Update",
-      "bodyKey": "Sinner, we've been refining every aspect of the game to deliver a smoother and more consistent experience.\n\nHere's what's new:\n\nVISUAL IMPROVEMENTS: Cleaner menus, upgraded maps, and a new death dissolve animation.\n\nAUDIO UPDATES: New tracks for levels and menus, along with enhanced sound effects.\n\nGAMEPLAY BALANCING: Strength has been rebalanced to better match its cost, alongside general gameplay adjustments.\n\nDIFFICULTY SYSTEM UPDATE: Difficulty now directly affects lives and cash rewards.\n\nQUALITY OF LIFE: Interface improvements, refined menus, notification system, and overall usability enhancements.\n\nPERFORMANCE: Significant optimizations to improve stability and responsiveness.\n\nDIALOGUES: New dialogue content has been added to enrich the game world.\n\nOver 30 improvements and fixes to make the experience more polished and solid.\n\nThank you for your support!",
-      "date": "Coming Soon!",
+      "newsID": "rebalancing_update",
+      "titleKey": "Rebalancing update",
+      "bodyKey": "Sinner, we've rebalanced every available level for a smoother gameplay experience!\n\nHere's what's new:\n\nVISUAL IMPROVEMENTS: More consistent background displays for devices of all types.\n\nAUDIO UPDATES: New tracks for levels and menus, along with enhanced sound effects.\n\nGAMEPLAY BALANCING: General enemy spawning has been reduced across the board, and towers have received slight changes to their stats.\n\nThank you for your support!",
+      "date": "",
       "iconUrl": ""
     },
     {
