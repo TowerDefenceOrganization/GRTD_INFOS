@@ -1,23 +1,22 @@
 {
   "patchNotes": [
     {
-      "version": "1.4.4",
-      "date": "02/05/2026",
-      "titleKey": "Rebalancing Update",
+      "version": "1.4.5",
+      "date": "17/05/2026",
+      "titleKey": "Visual and Audio Update",
       "sections": [
         {
           "type": "features",
           "itemKeys": [
+            ""
           ]
         },
         {
           "type": "improvements",
           "itemKeys": [
-            "Rebalanced Level 1-1",
-            "Rebalanced Level 1-2",
-            "Rebalanced Level 1-3",
-            "Rebalanced Level 1-4",
-            "Adjusted the track of Level 1-1"
+            "Clean visuals for Sun",
+            "Adjusted track for Level 1-2",
+            "Adjusted audio balancing for enemy walk cycles"
           ]
         },
         {
